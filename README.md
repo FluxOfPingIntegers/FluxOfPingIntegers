@@ -1,16 +1,20 @@
-### Hi there 👋
+### Welcome To My GitHub 👋
 
-<!--
-**FluxOfPingIntegers/FluxOfPingIntegers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently I am working on 🛠️:
+* Deploying [Sproutable](https://github.com/FluxOfPingIntegers/sproutable-frontend) to Heroku 🌱
+* My personal site 📄
 
-Here are some ideas to get you started:
+## Currently I am learning and practicing 📚:
+* Data structures and algorithms 🤓
+* SASS ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Feel free to reach out to me in the following ways 📫
+* [Email](mailto:Ryan.M.Schleck@gmail.com) 📧
+* [LinkedIn](https://www.linkedin.com/in/ryan-schleck/) 🧑‍💼
+
+## Currently I'm looking for resources on 👯
+* Good free resources to learn/practice C# 🧑‍🏫
+* A [Roll20](https://roll20.net/) group looking for a newbie player 🎲
+
+## Fun Fact 🔖
+* I spent years working as a carded electrician prior to learning to code ⚡
