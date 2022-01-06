@@ -1,20 +1,20 @@
-### Welcome To My GitHub 👋
+## Welcome To My GitHub 👋
 
-## Currently I am working on 🛠️:
+### Currently I am working on 🛠️:
 * Deploying [Sproutable](https://github.com/FluxOfPingIntegers/sproutable-frontend) to Heroku 🌱
 * My personal site 📄
 
-## Currently I am learning and practicing 📚:
+### Currently I am learning and practicing 📚:
 * Data structures and algorithms 🤓
 * SASS ✨
 
-## Feel free to reach out to me in the following ways 📫
+### Feel free to reach out to me in the following ways 📫
 * [Email](mailto:Ryan.M.Schleck@gmail.com) 📧
 * [LinkedIn](https://www.linkedin.com/in/ryan-schleck/) 🧑‍💼
 
-## Currently I'm looking for resources on 👯
+### Currently I'm looking for resources on 👯
 * Good free resources to learn/practice C# 🧑‍🏫
 * A [Roll20](https://roll20.net/) group looking for a newbie player 🎲
 
-## Fun Fact 🔖
+### Fun Fact 🔖
 * I spent years working as a carded electrician prior to learning to code ⚡
