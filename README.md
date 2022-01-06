@@ -12,7 +12,7 @@
 * [Email](mailto:Ryan.M.Schleck@gmail.com) 📧
 * [LinkedIn](https://www.linkedin.com/in/ryan-schleck/) 🧑‍💼
 
-### Currently I'm looking for resources on 👯
+### Currently I'm looking for resources on 📑
 * Good free resources to learn/practice C# 🧑‍🏫
 * A [Roll20](https://roll20.net/) group looking for a newbie player 🎲
 
