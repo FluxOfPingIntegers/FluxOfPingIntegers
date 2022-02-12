@@ -1,7 +1,7 @@
 ## Welcome To My GitHub 👋
 
 ### Currently I am working on 🛠️:
-- [x] Deploying [Sproutable](https://github.com/FluxOfPingIntegers/sproutable-frontend) to Heroku 🌱
+- [x] Deploying [Sproutable](https://sprouttable.herokuapp.com/) to Heroku 🌱
 - [ ] My personal site 📄
 
 ### Currently I am learning and practicing 📚:
