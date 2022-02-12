@@ -6,7 +6,7 @@
 
 ### Currently I am learning and practicing 📚:
 * Data structures and algorithms 🤓
-* SASS ✨
+* React Native ⚛️
 
 ### Feel free to reach out to me in the following ways 📫:
 * [Email](mailto:Ryan.M.Schleck@gmail.com) 📧
