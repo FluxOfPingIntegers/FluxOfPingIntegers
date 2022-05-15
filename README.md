@@ -5,7 +5,7 @@
 - [ ] My personal site 📄
 
 ### Currently I am learning and practicing 📚:
-* Data structures and algorithms 🤓
+* Data structures & algorithms 🤓
 * TypeScript 💻
 
 ### Feel free to reach out to me in the following ways 📫:
