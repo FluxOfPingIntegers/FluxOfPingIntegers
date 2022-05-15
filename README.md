@@ -2,7 +2,7 @@
 
 ### Currently I am working on 🛠️:
 - [x] Deploying [Sproutable](https://sprouttable.herokuapp.com/) to Heroku 🌱
-- [ ] My personal site 📄
+- [ ] My portfolio site 📄
 
 ### Currently I am learning and practicing 📚:
 * Data structures & algorithms 🤓
