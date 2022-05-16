@@ -1,7 +1,7 @@
 ## Welcome To My GitHub 👋
 
 ### Currently I am working on 🛠️:
-- [x] Deploying [Sproutable](https://sprouttable.herokuapp.com/) to Heroku 🌱
+- [x] Deployed [Sproutable](https://sprouttable.herokuapp.com/) to Heroku 🌱
 - [ ] My portfolio site 📄
 
 ### Currently I am learning and practicing 📚:
