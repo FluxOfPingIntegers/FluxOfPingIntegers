@@ -7,6 +7,7 @@
 ### Currently I am learning and practicing 📚:
 * Data structures & algorithms 🤓
 * Typescript 💻
+* Node.js
 
 ### Feel free to reach out to me in the following ways 📫:
 * [Email](mailto:Ryan.M.Schleck@gmail.com) 📧
