@@ -2,7 +2,7 @@
 
 ### Currently I am working on 🛠️:
 - [x] Deployed [Sproutable](https://sprouttable.herokuapp.com/) to Heroku 🌱
-- [ ] My portfolio site 📄
+- [ ] Developing [Sabbacular](https://github.com/FluxOfPingIntegers/sabbacular-frontend) 📄
 
 ### Currently I am learning and practicing 📚:
 * Data structures & algorithms 🤓
