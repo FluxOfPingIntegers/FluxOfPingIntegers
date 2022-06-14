@@ -8,6 +8,7 @@
 * Data structures & algorithms 🤓
 * Typescript 💻
 * Node.js
+* Express
 
 ### Feel free to reach out to me in the following ways 📫:
 * [Email](mailto:Ryan.M.Schleck@gmail.com) 📧
@@ -19,3 +20,4 @@
 
 ### Fun Fact 🔖:
 * I spent years working as a carded electrician prior to learning to code ⚡
+* Sometimes I write (blogs)[https://ryan-m-schleck.medium.com/]
