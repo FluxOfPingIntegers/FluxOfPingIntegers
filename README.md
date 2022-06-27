@@ -20,4 +20,4 @@
 
 ### Fun Fact 🔖:
 * I spent years working as a carded electrician prior to learning to code ⚡
-* Sometimes I write (blogs)[https://ryan-m-schleck.medium.com/]
+* Sometimes I write [blogs](https://ryan-m-schleck.medium.com/)
