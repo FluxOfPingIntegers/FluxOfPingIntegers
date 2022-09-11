@@ -6,7 +6,7 @@
 
 ### Currently I am learning and practicing 📚:
 * Data structures & algorithms 🤓
-* NodeJS 💻
+* Node.js 💻
 * Express :desktop_computer:
 
 ### Feel free to reach out to me in the following ways 📫:
