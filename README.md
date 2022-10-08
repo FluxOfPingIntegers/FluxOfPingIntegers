@@ -17,6 +17,6 @@
 * Good free resources to learn/practice C# 🧑‍🏫
 * A [Roll20](https://roll20.net/) group looking for a newbie player 🎲
 
-### Fun Facts About Me 🔖 :
+### Fun Facts About Me 🔖:
 * I spent years working as a carded electrician prior to learning to code ⚡
 * Sometimes I write [blogs](https://ryan-m-schleck.medium.com/)
