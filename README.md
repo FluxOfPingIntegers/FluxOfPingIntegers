@@ -8,6 +8,7 @@
 * Data structures & algorithms 🤓
 * Node.js 💻
 * Express :desktop_computer:
+* Starting a business
 
 ### Feel free to reach out to me in the following ways 📫:
 * [Email](mailto:Ryan.M.Schleck@gmail.com) 📧
