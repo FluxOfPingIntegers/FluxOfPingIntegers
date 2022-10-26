@@ -3,7 +3,6 @@
 ### Currently I am working on 🛠️:
 - [x] Deployed [Sproutable](https://sprouttable.herokuapp.com/) to Heroku 🌱
 - [ ] Developing [Sabbacular](https://github.com/FluxOfPingIntegers/sabbacular-frontend) 📄
-- [ ] Developing Arcalc for Mainstay Data Computing
 
 ### Currently I am learning and practicing 📚:
 * Data structures & algorithms 🤓
