@@ -5,7 +5,7 @@
 - [ ] Developing [Sabbacular](https://github.com/FluxOfPingIntegers/sabbacular-frontend) 📄
 
 ### Currently I am learning and practicing 📚:
-* Data structures & algorithms 🤓
+* Finishing my Computer Science degree 🤓
 * Node.js 💻
 * Express :desktop_computer:
 
@@ -14,7 +14,7 @@
 * [LinkedIn](https://www.linkedin.com/in/ryan-schleck/) 🧑‍💼
 
 ### Currently I'm looking for resources on 📑:
-* Good free resources to learn/practice  🎲
+* A good data set for calculating river depths
 
 ### Fun Facts About Me 🔖:
 * I spent years working as a carded electrician prior to learning to code ⚡
