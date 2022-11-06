@@ -14,7 +14,7 @@
 * [LinkedIn](https://www.linkedin.com/in/ryan-schleck/) 🧑‍💼
 
 ### Currently I'm looking for resources on 📑:
-* A good data set for calculating river depths
+* A good data set for calculating river depths 💧
 
 ### Fun Facts About Me 🔖:
 * I spent years working as a carded electrician prior to learning to code ⚡
