@@ -8,7 +8,7 @@
 * Finishing my Computer Science degree 🤓
 * Node.js 💻
 * Express :desktop_computer:
-* Graphql 📈
+* Learning Python 🐍
 
 ### Feel free to reach out to me in the following ways 📫:
 * [Email](mailto:Ryan.M.Schleck@gmail.com) 📧
